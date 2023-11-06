@@ -25,7 +25,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
-    text-align: right;
+    text-align: left;
 }
 
 .container {
@@ -55,7 +55,7 @@ body {
 }
 
 .container__titulo {
-    font-size: 28px;
+    font-size: 150px;
     font-weight: 700;
 }
 
